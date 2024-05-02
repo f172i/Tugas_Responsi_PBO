@@ -1,0 +1,17 @@
+Nama : null
+Alamat : null
+null			// Null 
+
+
+NIM : A11.2022.14814 	// Output nim
+
+
+Nama : null
+Alamat : null
+NIM : A11.2022.14814
+
+
+
+NIM : A11.2022.14814
+Nama : null		//Akan Mengubah urutan
+Alamat : null		
